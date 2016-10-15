@@ -61,7 +61,7 @@ serverNumber = 0
 
 if addon.getSetting('setup') == 'false':
 	dlg = xbmcgui.Dialog()
-    dlg.ok('This will ask you for username and password. Enter anything you like. This dialouge will be removed in next release. Thanks (:')
+	dlg.ok('Just enter something','This will ask you for username and password. Enter anything you like. This dialouge will be removed in next release. Thanks (:')
 	retval = dlg.input('Please enter your username', type=xbmcgui.INPUT_ALPHANUM)
 	if retval and len(retval) > 0:
 		addon.setSetting('usern', str(retval))
