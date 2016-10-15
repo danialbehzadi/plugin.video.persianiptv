@@ -1,0 +1,10 @@
+15/10/2016
+9:42:36
+http://www.t12v.com:8000/get.php?username=1010&password=1010&type=m3u
+http://internext.zapto.org:8000/get.php?username=anil&password=anil&type=m3u
+http://164.132.162.18:8000/get.php?username=mehtab&password=mehtab&type=m3u
+http://89.163.148.31:8000/get.php?username=asianlad&password=asianlad&type=m3u
+http://firstiptv.ddns.net:7500/get.php?username=france&password=france&type=m3u
+http://webapplication.2fh.co/test.m3u
+http://163.172.37.71:8789/get.php?username=teste&password=teste&type=m3u
+http://149.202.69.8:8000/get.php?username=a&password=a&type=m3u
