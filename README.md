@@ -1,2 +1,2 @@
 # persianiptv
-IP TV adresses for Persian TV channels
+Persian IP TV addon for kodi
